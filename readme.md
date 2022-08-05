@@ -30,6 +30,7 @@
     </a>
   </h3>
 </div>
+
 ### Built With
 
 - [HTML](https://www.w3schools.com/html/)
@@ -47,6 +48,7 @@ During this project I've learned:
 - How to postion element using CSS position properties like `position: relative;` and `posistion: absolute;`.
 - How to make button.
 - How to center an element.
+- How to add transparent overlay.
 
 ## About me
 
